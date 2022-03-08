@@ -25,5 +25,7 @@
 
 Check it out **[here](https://anacury.github.io/vanilla-js-halloween/)**.
 
+<img align="center" src="/img/img.svg" width="450" />
+
 ##
-Developed with love 💛 by [Ana Cury](https://github.com/anacury/) 🐈‍⬛
+Developed with love 💛 by [Ana Cury](https://github.com/anacury/)
