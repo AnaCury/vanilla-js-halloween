@@ -29,4 +29,4 @@ Check it out **[here](https://anacury.github.io/vanilla-js-halloween/)**.
 - [Figma](https://www.figma.com/community/file/898410101241932232)
 
 ##
-Developed with love 💚 by [Ana Cury](https://github.com/anacury/)
+Crafted with care & love 💚 by [Ana Cury](https://github.com/anacury/)
